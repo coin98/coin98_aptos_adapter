@@ -2,7 +2,7 @@
   "name": "@coin98/aptos-wallet-adapter-plugin",
   "version": "1.0.0",
   "description": "Coin98 Extension plugin to use with Aptos Wallet Adapter",
-  "author": "Coin98 Extension Aptos",
+  "author": "support@coin98.com",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
